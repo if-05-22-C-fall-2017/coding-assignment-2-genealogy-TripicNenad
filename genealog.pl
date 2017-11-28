@@ -6,8 +6,6 @@ parent(john, pat).
 parent(pat, jacob).
 parent(carol, jacob).
 
-/ parent(X,pat). /
-/ parent(lisa,X). /
 
 male(adam).
 male(john).
